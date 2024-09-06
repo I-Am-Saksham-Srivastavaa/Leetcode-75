@@ -13,9 +13,11 @@ This repository contains my solutions for the LeetCode 75 challenge. Each soluti
 ## How to Use
 
 1. Clone the repository:
+
     ```sh
-    git clone https://github.com/yourusername/Leetcode-75.git
+    git clone https://github.com/I-Am-Saksham-Srivastavaa/Leetcode-75.git
     ```
+    
 2. Navigate to the problem directory you are interested in.
 3. Review the problem statement and solution.
 
