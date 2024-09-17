@@ -6,7 +6,7 @@ Submission Link: https://leetcode.com/problems/edit-distance/submissions/1390152
 class Solution:
     def minDistance(self, s1: str, s2: str) -> int:
 
-        @lru_cache(maxsize=None)
+        @lru_cache(maxsize=None) # type: ignore
         def f(i, j):
             if i == 0 and j == 0: return 0
             if i == 0 or j == 0: return i or j
