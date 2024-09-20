@@ -28,3 +28,8 @@ Feel free to fork this repository and submit pull requests if you have improveme
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Dates
+
+1. Starting Date: September 1st, 2024 
+2. Completion Date: September 20th, 2024
